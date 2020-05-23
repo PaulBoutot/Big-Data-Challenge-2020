@@ -8,11 +8,17 @@ I think the best way to handle this is to put the links to the datasets we use/m
 Example file structure:
 
 Big-Data-Challenge-2020
+
 |- <name of the dataset1 folder>
-|- |- <link to dataset1>
+
+|- |- \<link to dataset1\>
+
 |- |- ...
-|- <name of the dataset2 folder>
-|- |- <link to dataset2>
+
+|- \<name of the dataset2 folder\>
+
+|- |- \<link to dataset2\>
+
 |- |- ...
 
 TODO: make a .gitignore for this folder to ignore the datasets
