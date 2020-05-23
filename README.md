@@ -49,6 +49,9 @@ https://covidtracking.com/data
 ### ICU Bed Dataset:
 https://www.kaggle.com/jaimeblasco/icu-beds-by-county-in-the-us
 
+### Mobility (Apple + Google)
+https://www.kaggle.com/timxia/enriched-global-mobility-data-apple-google
+
 ## Other
 
 ### Ventilator Problem:
