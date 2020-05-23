@@ -43,9 +43,15 @@ https://data.cityofnewyork.us/Business/Legally-Operating-Businesses/w7w3-xahh?fb
 ### Population Density:
 https://www.opendatanetwork.com/entity/1600000US3651000/New_York_NY/geographic.population.density?year=2018&fbclid=IwAR2DJ4Hc6Y5LOu124otU13xMqREBmVXJItd2sXWH3-w3yYaRCo2GrGG9KDg
 
+### Covid Tracking:
+https://covidtracking.com/data
+
+### ICU Bed Dataset:
+https://www.kaggle.com/jaimeblasco/icu-beds-by-county-in-the-us
+
 ## Other
 
-### Ventilator Problem
+### Ventilator Problem:
 https://meduza.io/en/feature/2020/03/21/the-ventilator-problem?fbclid=IwAR1tGuxwsI_RhQCQ9YWPqp0KPO6O5xNHb57nJoiURjeSwvBl-lieYQjSbfk
 
 ### Protecting Healthcare Workers Article:
