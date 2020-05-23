@@ -49,7 +49,7 @@ https://covidtracking.com/data
 ### ICU Bed Dataset:
 https://www.kaggle.com/jaimeblasco/icu-beds-by-county-in-the-us
 
-### Mobility (Apple + Google)
+### Mobility (Apple + Google):
 https://www.kaggle.com/timxia/enriched-global-mobility-data-apple-google
 
 ## Other
@@ -66,6 +66,8 @@ https://www.the-hospitalist.org/hospitalist/article/220200/coronavirus-updates/s
 ### Covid 19 Data:
 https://www1.nyc.gov/site/doh/covid/covid-19-data.page?fbclid=IwAR2XDCNIv3GCxiW-byvnQcUDFulz0VyuCruf3FNrM6Vm0T3MQ6WAD7rGwyU
 
+### UofT Live Updates:
+http://www.dlsph.utoronto.ca/live-updates-on-covid-19-from-dlsph/
 
 ## Topic Epidemic Preparedness: 
 
